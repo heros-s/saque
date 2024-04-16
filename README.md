@@ -1,1 +1,1 @@
-O usuário deve digitar apenas o valor que deve ser sacado, e o programa fará todos os cálculos para exibir precisamente quantas e quais cédulas forma cedidas ao cliente.
+O usuário deve digitar apenas o valor que será sacado, e o programa fará todos os cálculos para exibir precisamente quantas e quais cédulas forma cedidas ao cliente.
